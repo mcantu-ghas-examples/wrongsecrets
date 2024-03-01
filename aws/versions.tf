@@ -6,7 +6,7 @@ terraform {
       version = "~> 4.48.0"
     }
     random = {
-      version = "~> 3.4.3"
+      version = "~> 3.6.0"
     }
     http = {
       version = "~> 3.2.1"
